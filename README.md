@@ -44,9 +44,7 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 ```
 LeetCode-Journey/
 │
-├── Easy/
-├── Medium/
-├── Hard/
+solved program with explained comments
 └── README.md
 ```
 
@@ -71,10 +69,10 @@ Currently solving problems in:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
-| **Total** | **0** |
+| Easy | 27 |
+| Medium | 20 |
+| Hard | 4 |
+| **Total** | **51** |
 
 > This table will be updated as I solve more problems.
 
